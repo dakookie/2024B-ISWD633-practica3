@@ -35,7 +35,7 @@ docker run -d --name wordpress-container --network net-wp -e WORDPRESS_DB_HOST=m
 ```
 
 ### Personalizar la apariencia de wordpress y agregar una entrada
-![entrada](img/entrada)
+![entrada](img/entrada.png)
 ![Imagen](img/wordpress.png)
 
 ### Eliminar el contenedor y crearlo nuevamente, ¿qué ha sucedido?
